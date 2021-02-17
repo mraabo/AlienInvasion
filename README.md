@@ -4,7 +4,7 @@ This is a for-fun project i'm working on to improve my python skills. It's my ve
 
 ## Disclaimer
 
-The game is still very much in progress, so many core features haven't been implemented yet and the game might be unplayable.
+The game is still much in progress, so a few features haven't been implemented yet, like the saving of highscores and other minor things.
 
 ## Usage
 

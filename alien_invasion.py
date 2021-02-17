@@ -1,11 +1,11 @@
-import sys
+#import sys
 
 import pygame
 from pygame.sprite import Group
 
 from settings import Settings
 from ship import Ship
-from alien import Alien
+#from alien import Alien
 from game_stats import Game_stats
 from button import Button
 from scoreboard import Scoreboard
